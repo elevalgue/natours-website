@@ -1,0 +1,22 @@
+{
+  "name": "natours-website",
+  "version": "1.0.0",
+  "description": "Lading page for natours",
+  "main": "index.js",
+  "scripts": {
+   "compile:sass": "node-sass sass/main.scss styles/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevalgue/natours-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elevalgue/natours-website/issues"
+  },
+  "homepage": "https://github.com/elevalgue/natours-website#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
